@@ -1,9 +1,9 @@
 {
   "name": "@ydx/bit-on-campus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "exports": "./mod.ts",
   "tasks": {
-    "dev": "deno run --allow-net --watch mod.ts"
+    "dev": "deno run --allow-net --watch main.ts"
   },
   "imports": {
     "jsr:@es-toolkit/es-toolkit": "jsr:@es-toolkit/es-toolkit@^1.18.0"

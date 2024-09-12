@@ -28,7 +28,3 @@ export async function on_campus_cached(ms: number = 200): Promise<boolean> {
   cache = result;
   return result;
 }
-
-if (import.meta.main) {
-  console.log("On campus?", await on_campus_cached());
-}
