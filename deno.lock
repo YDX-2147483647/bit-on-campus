@@ -1,0 +1,19 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "jsr:@es-toolkit/es-toolkit@^1.18.0": "jsr:@es-toolkit/es-toolkit@1.18.0"
+    },
+    "jsr": {
+      "@es-toolkit/es-toolkit@1.18.0": {
+        "integrity": "eef45afe14975651c39595081b6c8d2fd8c10f998b0002697867afe96e02645d"
+      }
+    }
+  },
+  "remote": {},
+  "workspace": {
+    "dependencies": [
+      "jsr:@es-toolkit/es-toolkit@^1.18.0"
+    ]
+  }
+}

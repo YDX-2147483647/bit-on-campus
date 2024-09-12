@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net --watch main.ts"
+  },
+  "imports": {
+    "jsr:@es-toolkit/es-toolkit": "jsr:@es-toolkit/es-toolkit@^1.18.0"
+  }
+}
